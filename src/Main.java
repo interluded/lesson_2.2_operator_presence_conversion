@@ -2,6 +2,8 @@
 
 /*
 A={\sqrt  {s(s-a)(s-b)(s-c)}}.
+
+commited manz
  */
 
 import java.util.Scanner;
